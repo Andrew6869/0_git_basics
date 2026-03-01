@@ -7,3 +7,4 @@ echo "Backup created in $backup_dir"
 # Добавляем функцию сжатия
 tar -czf "$backup_dir.tar.gz" "$backup_dir"
 echo "Compressed backup created"
+# Andrew6869 version
